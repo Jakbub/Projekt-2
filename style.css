@@ -1,7 +1,7 @@
 body{
     display: grid;
     grid-template-columns: 8fr 3fr;
-    grid-template-rows: 130vh 20vh;
+    grid-template-rows: 100vh 20vh;
     background-color: black;
 }
 
@@ -32,7 +32,7 @@ main img{
 .Clownlax{
     display: flex;
     flex-direction: row;
-    gap: 150px;
+    gap: 200px;
 }
 
 .Clownfisk{
@@ -49,7 +49,7 @@ main img{
 .Blåsgädda{
     display: flex;
     flex-direction: row;
-    gap: 150px;
+    gap: 200px;
 }
 
 .Blåsfisk{
@@ -66,7 +66,7 @@ main img{
 .Drakmal{
     display: flex;
     flex-direction: row;
-    gap: 150px;
+    gap: 200px;
 }
 
 .Drakfisk{
@@ -127,5 +127,5 @@ footer p{
 }
 
 footer img{
-    margin-left: 255px;
+    margin-left: 450px;
 }
